@@ -1,0 +1,35 @@
+{
+  "name": "mynewhome_mvc",
+  "version": "1.0.0",
+  "description": "Proyecto Web de venta y alquiler de inmuebles",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemo index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivascesar86/myNewHome_mvc.git"
+  },
+  "keywords": [
+    "React",
+    "Node.js",
+    "sequelize",
+    "pug",
+    "framework",
+    "css"
+  ],
+  "author": "Alisson Espinoza, Alberto Gamarra, César Rivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivascesar86/myNewHome_mvc/issues"
+  },
+  "homepage": "https://github.com/rivascesar86/myNewHome_mvc#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
