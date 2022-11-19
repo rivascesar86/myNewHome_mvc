@@ -1,4 +1,4 @@
-import { express } from "express";
+import express from "express";
 import usuarioRoutes from './routes/usuarioRoutes.js'
 
 // crear la app
